@@ -1,0 +1,71 @@
+.ai-mentor-card {
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  border-radius: 20px;
+  padding: 20px;
+  margin: 20px 0;
+  box-shadow: 0 8px 32px rgba(31, 38, 135, 0.15);
+  max-width: 500px;
+}
+
+.pulse-avatar {
+  animation: pulse 2s infinite;
+  border: 3px solid #ff6b6b;
+  width: 80px !important;
+  height: 80px !important;
+  margin: 0 auto 15px;
+  display: block;
+}
+
+.chat-container {
+  height: 200px;
+  overflow-y: auto;
+  margin-bottom: 15px;
+  padding: 10px;
+  background: white;
+  border-radius: 10px;
+}
+
+.message {
+  padding: 8px 12px;
+  margin: 5px;
+  border-radius: 18px;
+  max-width: 80%;
+}
+
+.message.user {
+  background: #e3f2fd;
+  margin-left: auto;
+}
+
+.message.mentor {
+  background: #f1f1f1;
+  margin-right: auto;
+}
+
+.voice-button {
+  background: #ff6b6b;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+.voice-button.listening {
+  background: #4caf50;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(0.95);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(0.95);
+  }
+}

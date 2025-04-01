@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Business Plan Development",
+    "category": "business",
+    "description": "Learn how to create a comprehensive business plan for your venture, including market analysis, operational planning, and financial projections.",
+    "duration": "4 weeks",
+    "level": "Beginner",
+    "image": "/images/business-plan.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Financial Management Basics",
+    "category": "finance",
+    "description": "Master essential financial concepts including budgeting, cash flow management, and basic accounting principles for small businesses.",
+    "duration": "3 weeks",
+    "level": "Beginner",
+    "image": "/images/finance-basics.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Digital Marketing Fundamentals",
+    "category": "digital",
+    "description": "Discover how to establish your business online through social media marketing, content creation, and basic SEO techniques.",
+    "duration": "4 weeks",
+    "level": "Beginner",
+    "image": "/images/digital-marketing.jpg"
+  },
+  {
+    "id": 4,
+    "title": "E-commerce Setup and Management",
+    "category": "digital",
+    "description": "Learn how to set up and manage an online store, process payments, and handle fulfillment for your products.",
+    "duration": "3 weeks",
+    "level": "Intermediate",
+    "image": "/images/ecommerce.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Leadership and Team Building",
+    "category": "leadership",
+    "description": "Develop essential leadership skills to effectively manage teams, delegate tasks, and create a positive work environment.",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "image": "/images/leadership.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Negotiation Skills for Entrepreneurs",
+    "category": "leadership",
+    "description": "Master the art of negotiation for better deals with suppliers, partners, and customers while building long-term relationships.",
+    "duration": "2 weeks",
+    "level": "Intermediate",
+    "image": "/images/negotiation.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Funding Strategies for Women Entrepreneurs",
+    "category": "finance",
+    "description": "Explore various funding options available for women entrepreneurs, including grants, loans, and venture capital opportunities.",
+    "duration": "3 weeks",
+    "level": "Intermediate",
+    "image": "/images/funding.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Business Scaling Strategies",
+    "category": "business",
+    "description": "Learn proven strategies to scale your business operations, reach new markets, and increase profitability.",
+    "duration": "4 weeks",
+    "level": "Advanced",
+    "image": "/images/scaling.jpg"
+  }
+]
