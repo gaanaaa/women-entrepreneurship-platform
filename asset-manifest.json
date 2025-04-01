@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/women-entrepreneurship-platform/static/css/main.cbbb8284.css",
+    "main.js": "/women-entrepreneurship-platform/static/js/main.3fc44f59.js",
+    "static/js/453.8337d10b.chunk.js": "/women-entrepreneurship-platform/static/js/453.8337d10b.chunk.js",
+    "index.html": "/women-entrepreneurship-platform/index.html",
+    "main.cbbb8284.css.map": "/women-entrepreneurship-platform/static/css/main.cbbb8284.css.map",
+    "main.3fc44f59.js.map": "/women-entrepreneurship-platform/static/js/main.3fc44f59.js.map",
+    "453.8337d10b.chunk.js.map": "/women-entrepreneurship-platform/static/js/453.8337d10b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbbb8284.css",
+    "static/js/main.3fc44f59.js"
+  ]
+}
